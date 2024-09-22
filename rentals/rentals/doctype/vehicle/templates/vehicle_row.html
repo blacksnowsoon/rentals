@@ -1,0 +1,8 @@
+
+
+<div class="card" style="padding: 1rem; ">
+	<a href="/{{ doc.route |e }}">{{ (doc.title or doc.name) |e }}</a>
+</div>
+{% set session = frappe.session %}
+<h3>{{session.user}}</h3>
+<!-- this is a sample default list template -->

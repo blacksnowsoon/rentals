@@ -1,0 +1,51 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"gG2JjSSxAP\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Reantals</span>\",\"col\":12}},{\"id\":\"nZd4B5wwDI\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Number Of Vehicles\",\"col\":4}},{\"id\":\"yMkC0rFZqh\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Ride Order\",\"col\":3}},{\"id\":\"nzHezfeuht\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"New Driver\",\"col\":3}}]",
+ "creation": "2024-08-29 10:53:09.476726",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "right",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Reantals",
+ "links": [],
+ "modified": "2024-09-14 16:55:57.763705",
+ "modified_by": "Administrator",
+ "module": "Rentals",
+ "name": "Reantals",
+ "number_cards": [
+  {
+   "label": "Number Of Vehicles",
+   "number_card_name": "Vehicles"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 23.0,
+ "shortcuts": [
+  {
+   "color": "Green",
+   "doc_view": "New",
+   "label": "New Driver",
+   "link_to": "Driver",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Ride Order",
+   "link_to": "Ride Booking",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Reantals"
+}
